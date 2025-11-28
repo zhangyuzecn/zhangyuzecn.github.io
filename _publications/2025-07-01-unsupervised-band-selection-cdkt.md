@@ -2,7 +2,7 @@
 title: "Unsupervised Band Selection for Hyperspectral Images Classification: Particle Swarm Optimization via Cross-Domain Knowledge Transfer"
 collection: publications
 category: manuscripts
-permalink: /publication/2025-07-01-Unsupervised Band Selection for Hyperspectral Images Classification: Particle Swarm Optimization via Cross-Domain Knowledge Transfer
+permalink: /publications/2025-07-01-unsupervised-band-selection-cdkt/
 date: 2025-07-01
 venue: 'IEEE Transactions on Evolutionary Computation'
 paperurl: 'https://academicpages.github.io/files/paper3.pdf'
