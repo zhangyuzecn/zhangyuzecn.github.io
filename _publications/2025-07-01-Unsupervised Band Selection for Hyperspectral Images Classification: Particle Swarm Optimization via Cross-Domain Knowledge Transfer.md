@@ -2,11 +2,9 @@
 title: "Unsupervised Band Selection for Hyperspectral Images Classification: Particle Swarm Optimization via Cross-Domain Knowledge Transfer"
 collection: publications
 category: manuscripts
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+permalink: /publication/2025-07-01-Unsupervised Band Selection for Hyperspectral Images Classification: Particle Swarm Optimization via Cross-Domain Knowledge Transfer
 date: 2025-07-01
 venue: 'IEEE Transactions on Evolutionary Computation'
-slidesurl: 'https://academicpages.github.io/files/slides3.pdf'
 paperurl: 'https://academicpages.github.io/files/paper3.pdf'
 citation: 'Yuze Zhang, Lingjie Li, Qiuzhen Lin, Ling Wang, Zhong Ming, F Richard Yu, Victor CM Leung. &quot;Unsupervised Band Selection for Hyperspectral Images Classification: Particle Swarm Optimization via Cross-Domain Knowledge Transfer.&quot; <i>IEEE Transactions on Evolutionary Computation</i>. (2025).'
 ---
