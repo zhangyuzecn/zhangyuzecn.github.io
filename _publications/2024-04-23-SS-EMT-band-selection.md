@@ -3,7 +3,7 @@ title: Superpixel segmentation based evolutionary multitasking algorithm for fea
 collection: publications
 category: manuscripts
 permalink: /publications/2024-04-23-SS-EMT-band-selection/
-date: 2024-04-23
+date: 2025-04-23
 venue: IEEE Transactions on Evolutionary Computation
 paperurl: https://ieeexplore.ieee.org/abstract/document/10507166
 citation: Lingjie Li, Yuze Zhang, Qiuzhen Lin, Zhong Ming, Carlos A Coello Coello, Victor CM Leung. &quot;Superpixel segmentation based evolutionary multitasking algorithm for feature selection of hyperspectral images.&quot; <i>IEEE Transactions on Evolutionary Computation</i>, vol. 29, no. 4, pp. 1002-1016, 2025.
