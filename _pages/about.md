@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in the College of Computer Science and Software Engineering at **Shenzhen University**, supervised by Prof. [Lingjie Li](https://example.com). I received my B.S. degree from Hebei University of Engineering in 2021.
+I am a Ph.D. candidate in the College of Computer Science and Software Engineering at **Shenzhen University**. I received my B.S. degree from Hebei University of Engineering in 2021.
 
 My research focuses on **evolutionary computation**, **hyperspectral image analysis**, and **large-scale optimization**. I am particularly interested in developing evolutionary multitasking algorithms and particle swarm optimization methods for band selection and feature selection problems in remote sensing.
 
