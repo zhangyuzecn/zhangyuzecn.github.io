@@ -9,14 +9,13 @@ redirect_from:
 
 I am a Ph.D. candidate in the College of Computer Science and Software Engineering at **Shenzhen University**. I received my B.S. degree from Hebei University of Engineering in 2021.
 
-My research focuses on **evolutionary computation**, **hyperspectral image analysis**, and **large-scale optimization**. I am particularly interested in developing evolutionary multitasking algorithms and particle swarm optimization methods for band selection and feature selection problems in remote sensing.
+My research focuses on **evolutionary computation** and **hyperspectral image analysis**. I am particularly interested in developing evolutionary multitasking algorithms and particle swarm optimization methods for band selection and feature selection problems in remote sensing.
 
 ## 📚 Research Interests
 
 - Evolutionary Computation & Swarm Intelligence
 - Hyperspectral Image Classification & Band Selection
 - Feature Selection & Dimensionality Reduction
-- Large-Scale Optimization
 - Neural Architecture Search
 
 ## 📖 Recent Publications
